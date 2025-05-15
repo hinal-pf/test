@@ -1,0 +1,68 @@
+{
+  "0196d5ea-9478-7b98-873e-68bdec7e5e14": {
+    "contents": {
+      "0196d5fd-7800-7e4f-9aa2-34fe5f44d7f7": {
+        "contentSchedulerId": "0196d5fd-7800-7e4f-9aa2-34fe5f44d7f7",
+        "contentSchedulerType": "WSOffer",
+        "startDate": 1743448076,
+        "endDate": 1743620876,
+        "contentSchedulerData": {
+          "0196d607-2189-78d7-b2bf-fd43b27d356a": {
+            "contentId": "0196d607-2189-78d7-b2bf-fd43b27d356a",
+            "contentName": "July4-99-offer",
+            "contentDescription": "4th of July .99 Offer",
+            "contentVariantName": "control",
+            "contentTemplateId": null,
+            "contentType": "WSOffer",
+            "contentData": {
+              "levelRequirements": {
+                "min": 0,
+                "max": 0
+              },
+              "activeOfferLimit": -1,
+              "enabled": true,
+              "products": {
+                "e60d6f40-c51c-4c09-87a5-b4bdd500ab09": {
+                  "contentData": {
+                    "descriptionLocKey": "",
+                    "Rewards": {
+                      "bonusRewards": [
+                        {
+                          "unlockMatchIds": [],
+                          "type": "lightbulbs",
+                          "amount": 5,
+                          "iconIndex": 0
+                        }
+                      ],
+                      "reward": {
+                        "unlockMatchIds": [],
+                        "type": "coins",
+                        "amount": 5555,
+                        "iconIndex": 4
+                      }
+                    },
+                    "iapType": "consumable",
+                    "additionalDescriptionLocKey": "",
+                    "skuId": "offer_special33_0999",
+                    "currency": "iap",
+                    "titleLocKey": "AppStoreProduct__offer_special33_0999_TITLE",
+                    "cost": 99
+                  },
+                  "contentVariantName": "variant 2",
+                  "contentTemplateId": "ee8f1c05-2ced-4470-9e8e-faf1665549c6",
+                  "contentName": "4th of July Special Product",
+                  "contentType": "WSProduct",
+                  "contentDescription": "4th of July Special Product Description",
+                  "contentId": "e60d6f40-c51c-4c09-87a5-b4bdd500ab09"
+                }
+              },
+              "order": 250,
+              "offerType": "limitedTime",
+              "offerSelection": "squential"
+            }
+          }
+        }
+      }
+    }
+  }
+}
