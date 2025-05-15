@@ -2,11 +2,8 @@
   "order": 0,
   "filters": {
     "variableFilter": "1743448076 \u003C currentTime and currentTime \u003C 1743620876",
-    "appVersion": null,
-    "platforms": null,
     "enrollments": [
       "july-4-499-offer:control"
-    ],
-    "segments": null
+    ]
   }
 }

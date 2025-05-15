@@ -1,10 +1,6 @@
 {
   "priority": 0,
   "filters": {
-    "variableFilter": "1743448076 \u003C currentTime and currentTime \u003C 1743620876",
-    "appVersion": null,
-    "platforms": null,
-    "enrollments": null,
-    "segments": null
+    "variableFilter": "1743448076 \u003C currentTime and currentTime \u003C 1743620876"
   }
 }
