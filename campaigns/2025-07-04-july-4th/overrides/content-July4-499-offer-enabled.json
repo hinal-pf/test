@@ -1,0 +1,68 @@
+{
+  "0196d5ea-9478-7b98-873e-68bdec7e5e14": {
+    "contents": {
+      "0196d60c-2d8b-74c2-b883-cd82d405a01b": {
+        "contentSchedulerId": "0196d60c-2d8b-74c2-b883-cd82d405a01b",
+        "contentSchedulerType": "WSOffer",
+        "startDate": 1743448076,
+        "endDate": 1743620876,
+        "contentSchedulerData": {
+          "0196d60f-1104-7f93-8ddf-c78ae22e38b8": {
+            "contentId": "0196d60f-1104-7f93-8ddf-c78ae22e38b8",
+            "contentName": "July4-499-offer",
+            "contentDescription": "4th of July 4.99 Offer",
+            "contentVariantName": "enabled",
+            "contentTemplateId": null,
+            "contentType": "WSOffer",
+            "contentData": {
+              "levelRequirements": {
+                "min": 0,
+                "max": 0
+              },
+              "activeOfferLimit": -1,
+              "enabled": true,
+              "products": {
+                "fcdab303-c8b3-41e3-97a8-e985fdd57d4a": {
+                  "contentData": {
+                    "descriptionLocKey": "",
+                    "Rewards": {
+                      "bonusRewards": [
+                        {
+                          "unlockMatchIds": [],
+                          "type": "lightbulbs",
+                          "amount": 5,
+                          "iconIndex": 0
+                        }
+                      ],
+                      "reward": {
+                        "unlockMatchIds": [],
+                        "type": "coins",
+                        "amount": 5555,
+                        "iconIndex": 4
+                      }
+                    },
+                    "iapType": "consumable",
+                    "additionalDescriptionLocKey": "",
+                    "skuId": "offer_special33_0999",
+                    "currency": "iap",
+                    "titleLocKey": "AppStoreProduct__offer_special33_0999_TITLE",
+                    "cost": 499
+                  },
+                  "contentVariantName": "variant 2",
+                  "contentTemplateId": "ee8f1c05-2ced-4470-9e8e-faf1665549c6",
+                  "contentName": "4th of July Special Product",
+                  "contentType": "WSProduct",
+                  "contentDescription": "4th of July Special Product Description",
+                  "contentId": "fcdab303-c8b3-41e3-97a8-e985fdd57d4a"
+                }
+              },
+              "order": 250,
+              "offerType": "limitedTime",
+              "offerSelection": "squential"
+            }
+          }
+        }
+      }
+    }
+  }
+}
