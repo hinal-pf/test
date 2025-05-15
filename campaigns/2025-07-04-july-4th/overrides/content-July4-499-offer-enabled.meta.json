@@ -1,7 +1,7 @@
 {
   "order": 1,
   "filters": {
-    "variableFilter": "1743448076 \u003C currentTime and currentTime \u003C 1743620876",
+    "variableFilter": "1743448076 < currentTime and currentTime < 1743620876",
     "enrollments": [
       "july-4-499-offer:enabled"
     ]
